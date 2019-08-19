@@ -13,8 +13,8 @@ public class Country {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(342411);
-				System.out.println("你是谁");
+		System.out.println(445566);
+				System.out.println(112233);
 
 	}
 	
