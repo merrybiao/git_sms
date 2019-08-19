@@ -16,8 +16,12 @@ public class Country {
 
 		System.out.println(342433);
 		System.out.println(342411);
-
+		System.out.println("我是一个好人");
 		System.out.println(232423);
+
+		System.out.println(342411);
+				System.out.println("浣犳槸璋�");
+
 	}
 	
 
