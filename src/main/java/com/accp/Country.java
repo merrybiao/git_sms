@@ -14,11 +14,8 @@ public class Country {
 	
 	public static void main(String[] args) {
 
-		System.out.println(342433);
-		System.out.println(342411);
-		System.out.println("我是一个好人");
-		System.out.println(232423);
 
+			System.out.println(" ni   hao");
 		System.out.println(342411);
 				System.out.println("浣犳槸璋�");
 
@@ -26,6 +23,10 @@ public class Country {
 				System.out.println(112233);
 		System.out.println(778899);
 
+		System.out.println(445566);
+				System.out.println(112233);
+		System.out.println(778899);
+	System.out.println("study english");
 	}
 	
 
