@@ -29,11 +29,7 @@ public class Person {
 	}
 	
 		public static void main(String[] args) {
-		WeatherWS weatherWS = new WeatherWS();
-		WeatherWSSoap weatherWSSoap = weatherWS.getWeatherWSSoap();
-		ArrayOfString weather = weatherWSSoap.getWeather("光山", "");
-		List<String> string = weather.getString();
-		System.out.println(string);
+	
 	}
 
 }
