@@ -16,18 +16,11 @@ public class Country {
 
 
 			System.out.println(" ni   hao");
-		System.out.println(342411);
-				System.out.println("浣犳槸璋�");
 
 		System.out.println(445566);
 				System.out.println(112233);
 		System.out.println(778899);
-
-
-		System.out.println(445566);
-				System.out.println(112233);
-		System.out.println(778899);
-	System.out.println("study english");
+	System.out.println("study math");
 	}
 	
 
