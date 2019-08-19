@@ -12,6 +12,9 @@ public class Country {
 		Country.ggrdString = ggrdString;
 	}
 	
+	public static void main(String[] args) {
+		
+	}
 	
 
 }
