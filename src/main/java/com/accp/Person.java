@@ -7,6 +7,7 @@ public class Person {
     //çŸ­ä¿¡æ¨¡æ¿ID
     private static final String TEMPLATEID="14823014";
     //æ‰‹æœºå·ï¼ŒæŽ¥æ”¶è€…å·ç åˆ—è¡¨ï¼ŒJSONArrayæ ¼å¼ï¼Œé™åˆ¶æŽ¥æ”¶è?…å·ç ä¸ªæ•°æœ€å¤šä¸º100ä¸?
+
     private static final String MOBILES="['15827167589','15827167589']";
   
 	
