@@ -21,6 +21,10 @@ public class Country {
 				System.out.println(112233);
 		System.out.println(778899);
 	System.out.println("study math");
+		System.out.println(445566);
+				System.out.println(112233);
+		System.out.println(778899);
+	System.out.println("study math");
 	}
 	
 
